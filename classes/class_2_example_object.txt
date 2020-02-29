@@ -1,0 +1,13 @@
+drink_1
+  Attributes:
+  - name: "Tequila Sunrise"
+  - price: 10.5
+  - ingredients: ["Altos Silver Tequila", "Orange Juice", "Grenadine", "Orange Slice"]
+  - is_alcoholic: true
+
+  Methods:
+  - Change_name: name = "Happy Morning"
+  - change_price: price = 12
+  - list_ingredients: "Altos Silver Tequila", "Orange Juice", "Grenadine", "Orange Slice"
+  - make_virgin: is_alcoholic = false
+                 ingredients = ["Orange Juice", "Grenadine", "Orange Slice"]

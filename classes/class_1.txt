@@ -1,0 +1,12 @@
+Staff (class)
+  Attributes:
+  - name (string)
+  - mailing_address (string)
+  - is_clocked_in (boolean)
+  - hourly_wage (float)
+
+  Methods:
+  - clock_in (clocks the staff member into work modifying the is_clocked_in attribute to true)
+  - clock_out (clocks the staff member out of work modifying the is_clocked_in attribute to false)
+  - update_mailing_address (changes the staff member's mailing_address attribute to reflect a move of residence)
+  - give_10_percent_raise (increases the staff member's hourly_wage attribute by 10%)

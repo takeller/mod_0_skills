@@ -1,0 +1,13 @@
+drinks (class)
+  Attributes:
+  - name (string)
+  - price (float)
+  - ingredients (array of strings)
+  - is_alcoholic (boolean)
+
+  Methods:
+  - change_name (changes the name of the drink modifying the name attribute)
+  - change_price (changes the price of the drink modifying the price attribute)
+  - list_ingredients (lists the ingredients used in this drink using the ingredients attribute)
+  - make_virgin (takes any alcohol out of a drink changing the is_alcoholic attribute to false,
+    and removing any alcoholic ingredients from the ingredients attribute)
