@@ -1,0 +1,9 @@
+food = "Eggs"
+is_delicious = true
+food = "Bacon"
+num2 = 5
+num7 = 10
+quotient = num7/num2
+songs = ["King Kunta", "Otis", "Behind Blue Eyes"]
+songs.shift
+food.length
