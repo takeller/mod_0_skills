@@ -1,4 +1,4 @@
-drinks (class)
+drink (class)
   Attributes:
   - name (string)
   - price (float)
